@@ -1,0 +1,46 @@
+.section {
+    width:1000px;
+    height:130px;
+    display:block;
+    float: top;
+    background: #ccc;
+    position: relative;
+    margin:auto;
+}
+.second {
+  background: #fff;
+  height: 300px;
+}
+.third {
+  background: #4890d8;
+  height: 150px;
+}
+.fourth{
+    background: #48d8c0;
+    height: 150px;
+}
+.fifth{
+    background: #c0f090;
+    height: 150px;
+}
+.sixth {
+  background: #f0f018;
+  height: 150px;
+}
+div {
+  height: 90px;
+  width: 90px;
+  position: absolute;
+  background: #4890d8;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+p {
+  text-align: center;
+  vertical-align: middle;
+  padding: 75px;
+  color: black;
+  font-family: sans-serif;
+  max-width: 1000px;
+  word-wrap: break-word;
+}
